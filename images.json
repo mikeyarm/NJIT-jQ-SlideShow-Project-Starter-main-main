@@ -1,0 +1,64 @@
+{
+    "images": [
+        {
+            "imgPath": "img/places/onepiece.jpg",
+            "imgSeries": "One Piece",
+            "description": "As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer \"Red-Haired\" Shanks. But Luffy's life changed when he accidentally ate the Gum-Gum Devil Fruit and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary \"One Piece,\" said to be the greatest treasure in the world...",
+            "date": "07/22/1997"
+        },
+        {
+            "imgPath": "img/places/berserk.jpg",
+            "imgSeries": "Berserk",
+            "description": "His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned - and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance.",
+            "date": "08/25/1989"
+        },
+        {
+            "imgPath": "img/places/vagabond.jpg",
+            "imgSeries": "Vagabond",
+            "description": "Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher—the most celebrated swordsman of all time.",
+            "date": "09/03/1998"
+        },
+        {
+            "imgPath": "img/places/vinlandsaga.jpg",
+            "imgSeries": "Vinland Saga",
+            "description": "As a child, Thorfinn sat at the feet of the great Leif Ericson and thrilled to wild tales of a land far to the west. But his youthful fantasies were shattered by a mercenary raid. Raised by the Vikings who murdered his family, Thorfinn became a terrifying warrior, forever seeking to kill the band's leader, Askeladd, and avenge his father. Sustaining Thorfinn through his ordeal are his pride in his family and his dreams of a fertile westward land, a land without war or slavery...the land Leif called Vinland.",
+            "date": "04/13/2005"
+        },
+        {
+            "imgPath": "img/places/bleach.jpg",
+            "imgSeries": "Bleach",
+            "description": "Ichigo Kurosaki has always been able to see ghosts, but this ability doesn't change his life nearly as much as his close encounter with Rukia Kuchiki, a Soul Reaper and member of the mysterious Soul Society. While fighting a Hollow, an evil spirit that preys on humans who display psychic energy, Rukia attempts to lend Ichigo some of her powers so that he can save his family; but much to her surprise, Ichigo absorbs every last drop of her energy. Now a full-fledged Soul Reaper himself, Ichigo quickly learns that the world he inhabits is one full of dangerous spirits and, along with Rukia--who is slowly regaining her powers--it's Ichigo's job to protect the innocent from Hollows and help the spirits themselves find peace.",
+            "date": "08/07/2001"
+        },
+        {
+            "imgPath": "img/places/slamdunk.jpg",
+            "imgSeries": "Slam Dunk",
+            "description": "Winning isn't everything in the game of basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that. They have one last year to make their captain's dream of reaching the finals come true—will they do it?",
+            "date": "10/01/1990"
+        },
+        {
+            "imgPath": "img/places/blackclover.jpg",
+            "imgSeries": "Black Clover",
+            "description": "Young Asta was born with no magic ability in a world where magic is everything. In order to prove his strength and keep a promise with his friend, Asta dreams of becoming the greatest mage in the land, the Wizard King!",
+            "date": "02/16/2015"
+        },
+        {
+            "imgPath": "img/places/kagurabachi.jpg",
+            "imgSeries": "Kagurabachi",
+            "description": "Young Chihiro spends his days training under his famous swordsmith father. One day he hopes to become a great sword-maker himself. The goofy father and the serious son--they thought these days would last forever. But suddenly, tragedy strikes. A dark day soaked in blood. Chihiro and his blade now live only for revenge. Epic sword battle action!",
+            "date": "09/17/2023"
+        },
+        {
+            "imgPath": "img/places/attackontitan.jpg",
+            "imgSeries": "Attack on Titan",
+            "description": "In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
+            "date": "09/09/2009"
+        },
+        {
+            "imgPath": "img/places/csm.jpg",
+            "imgSeries": "Chainsaw Man",
+            "description": "Denji harbors a chainsaw devil within him. The world is introduced to Chainsaw Man, but...?!",
+            "date": "12/03/2018"
+        }
+  ]
+}
