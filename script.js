@@ -77,18 +77,14 @@ function showPrevPhoto () {
 }
 
 // Starter code for the timer function
-function startTimer () {
-  // Create a timer to automatically call `showNextPhoto()` every mWaitTime milliseconds 
-  // Consider using setInterval to achieve this functionality
-  // Hint: Make sure only one timer runs at a time
-  let mTimer = null
+let mTimer = null;
 
-  function startTimer() {
-    if (mTimer !== null) {
-      clearInterval(mTimer)
+function startTimer() {
+  if (mTimer !== null) {
+    clearInterval(mTimer);
   }
+
   mTimer = setInterval(() => {
-    showNextPhoto()
-    }, mWaitTime)
-  }
+    showNextPhoto();
+  }, mWaitTime);
 }
