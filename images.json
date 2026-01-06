@@ -31,10 +31,22 @@
             "date": "08/07/2001"
         },
         {
+            "imgPath": "img/places/gl.jpg",
+            "series": "Gurren Lagann",
+            "description": "Humans have been forced to live in isolated underground villages, where they constantly must burrow deeper into the Earth to escape the frequent earthquakes that wreak havoc on their way of life. In this world, two orphans named Simon and Kamina resolve to find a way to dig their way back to the surface, where they hope to make peace with the Beastmen and their robots who terrorize their human prey.",
+            "date": "04/01/2007"
+        },
+        {
             "imgPath": "img/places/slamdunk.jpg",
             "series": "Slam Dunk",
             "description": "Winning isn't everything in the game of basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that. They have one last year to make their captain's dream of reaching the finals come true—will they do it?",
             "date": "10/01/1990"
+        },
+        {
+            "imgPath": "img/places/chainsawman.jpg",
+            "series": "Chainsaw Man",
+            "description": "Denji harbors a chainsaw devil within him. The world is introduced to Chainsaw Man, but...?!",
+            "date": "12/03/2018"
         },
         {
             "imgPath": "img/places/blackclover.jpg",
@@ -43,22 +55,11 @@
             "date": "02/16/2015"
         },
         {
-            "imgPath": "img/places/gurrenlagann.jpg",
-            "series": "Gurren Lagann",
-            "description": "Humans have been forced to live in isolated underground villages, where they constantly must burrow deeper into the Earth to escape the frequent earthquakes that wreak havoc on their way of life. In this world, two orphans named Simon and Kamina resolve to find a way to dig their way back to the surface, where they hope to make peace with the Beastmen and their robots who terrorize their human prey.",
-            "date": "04/01/2007"
-        },
-        {
             "imgPath": "img/places/attackontitan.jpg",
             "series": "Attack on Titan",
             "description": "In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 50-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.",
             "date": "09/09/2009"
-        },
-        {
-            "imgPath": "img/places/csm.jpg",
-            "series": "Chainsaw Man",
-            "description": "Denji harbors a chainsaw devil within him. The world is introduced to Chainsaw Man, but...?!",
-            "date": "12/03/2018"
         }
+        
   ]
 }
